@@ -1,0 +1,4 @@
+tinshu
+bh0ug4IzUKu2HDxn
+mongodb+srv://tinshu:bh0ug4IzUKu2HDxn@testgraphqlcluster-hsy3c.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://tinshu:bh0ug4IzUKu2HDxn@testgraphqlcluster-hsy3c.mongodb.net/test?retryWrites=true&w=majority
