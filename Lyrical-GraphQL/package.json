@@ -27,7 +27,7 @@
     "express-session": "^1.15.0",
     "graphql": "^0.8.2",
     "html-webpack-plugin": "^2.26.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mongoose": "^5.9.9",
     "nodemon": "^2.0.4",
     "npm-check-updates": "^6.0.1",
